@@ -16,4 +16,4 @@
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=karensnb&theme=dark-aura&border_radius=4.8&short_numbers=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=karensnb&theme=rose&border_radius=4.8&short_numbers=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
