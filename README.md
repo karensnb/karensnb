@@ -16,4 +16,4 @@
 
 ## GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karensnb&theme=radical" alt="GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=karensnb&theme=dark-aura&border_radius=4.8&short_numbers=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
