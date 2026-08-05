@@ -16,4 +16,6 @@
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=karensnb&theme=rose&border_radius=4.8&short_numbers=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![Karensb's GitHub stats](https://github-stats-extended.vercel.app/api?username=karensnb)](https://github.com/stats-organization/github-stats-extended)
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=karensnb&langs_count=4)
